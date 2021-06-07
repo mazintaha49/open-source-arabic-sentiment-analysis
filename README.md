@@ -1,2 +1,11 @@
-# research-thesis-almughtaribeen-university-sudan
-naive bayes text sentiment analysis code and dataset
+# open-source-arabic-sentiment-analysis
+
+this is an open source code arabic sentiment analysis, using naive bayes method.
+as part of the research thesis:
+Mazin M. Taha:
+Open Source Arabic Sentiment Analysis using Naive Bayes.
+
+the dataset is also open source, and is credited to the following ressearch paper:
+Nawaf A. Abdulla1, Nizar A. Ahmed2, Mohammed A. Shehab3 and Mahmoud Al-Ayyoub4:
+Arabic Sentiment Analysis:Lexicon-based and Corpus-based.
+
